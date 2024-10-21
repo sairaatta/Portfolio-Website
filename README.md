@@ -15,8 +15,8 @@ This is a responsive personal portfolio website built using **React.js (Vite)** 
 
 
 ## Screenshots
-![Homepage](./screenshots/homepage.png)
-![About Me](./screenshots/aboutme.png)
+![Homepage](./screenshots/Homepage.png)
+![About Me](./screenshots/AboutMe.png)
 
 
 
